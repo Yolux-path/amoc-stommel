@@ -1,0 +1,14 @@
+20.0 35.0 15.0 34.0 50.0 200.0 0.1 4.0 25 6 5
+
+# Paramètres de la simulation AMOC
+# T_star : Température de référence (°C)
+# S_star : Salinité de référence (psu)
+# T_in : Température d'entrée (°C)
+# S_in : Salinité d'entrée (psu)
+# tau_T : Temps de relaxation pour la température (jours)
+# tau_S : Temps de relaxation pour la salinité (jours)
+# q : Taux de renouvellement (1/jour)
+# dt_init : Pas de temps initial (jours)
+# n_steps_base : Nombre d'itérations pour le raffinement de base
+# n_raf : Nombre de niveaux de raffinement
+# choix_schema : Choix du schéma numérique (1: EE, 2: EI, 3: Heun, 4: CN, 5: RK4)
